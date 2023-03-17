@@ -1,5 +1,7 @@
 # Hi there 👋
 
+- 🔭 I’m currently working on SmartCalc_v1
+
 ## My projects
 
 #### System administration/Devops
