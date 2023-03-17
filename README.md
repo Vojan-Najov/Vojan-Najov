@@ -4,7 +4,7 @@
 
 #### System administration/Devops
 
-- [Linux operating systems](https://github.com/Vojan-Najov/linux_operating_system) \
+- [Linux operating systems](https://github.com/Vojan-Najov/linux_operating_system) (school 21 project) \
   Linux system installation and updates. Administration basics.
 
 <!--
