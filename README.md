@@ -4,9 +4,14 @@
 
 ## My projects
 
+#### C projects
+
+- [s21_cat](https://github.com/Vojan-Najov/cat) - **school 21 project** \
+  `Cat` is a standard Unix utility that reads files sequentially, writing them to standard output. 
+
 #### System administration/Devops
 
-- [Linux operating systems](https://github.com/Vojan-Najov/linux_operating_system) - **school 21** project \
+- [Linux operating systems](https://github.com/Vojan-Najov/linux_operating_system) - **school 21 project** \
   Linux system installation and updates. Administration basics.
 
 <!--
