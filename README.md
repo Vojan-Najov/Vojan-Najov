@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on SmartCalc_v1
+- 🔭 I’m currently working on LinuxNetwork
 
 ## My projects
 
@@ -12,7 +12,7 @@
   `Cat` is a standard Unix utility that reads files sequentially, writing them to standard output.
 
 
-#### System administration/Devops
+#### System administration / Devops projects
 
 - [Linux operating systems](https://github.com/Vojan-Najov/linux_operating_system) - **school 21 project** \
   Linux system installation and updates. Administration basics.
