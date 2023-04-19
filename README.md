@@ -7,7 +7,9 @@
 #### C projects
 
 - [s21_cat](https://github.com/Vojan-Najov/cat) - **school 21 project** \
-  `Cat` is a standard Unix utility that reads files sequentially, writing them to standard output. 
+  `Cat` is a standard Unix utility that reads files sequentially, writing them to standard output.
+- [SmartCalc-v1.0](https://github.com/Vojan-Najov/SmartCalc_v1.0) - **scholl 21 project** \
+  Implementation of calculator. GUI on Gtk4.
 
 #### System administration/Devops
 
