@@ -17,8 +17,10 @@
 - [Linux operating systems](https://github.com/Vojan-Najov/linux_operating_system) - **school 21 project** \
   Linux system installation and updates. Administration basics.
 
-#### Computer Graphic. OpenGl
-
+#### Computer Graphic. OpenGL
+- [Sierpinski Gasket](https://github.com/Vojan-Najov/Sierpinski_Gasket) \
+  Displaying the Serpinsky gasket using OpenGL.
+  
 <!--
 **Vojan-Najov/Vojan-Najov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
