@@ -24,7 +24,7 @@
   The program of drawing by square brush. OpenGL, GLUT.
 - [SimplePaint](https://github.com/Vojan-Najov/SimplePaint) \
   A simple drawing program. OpenGL, GLUT.
-- [Rotating Square](https://github.com/Vojan-Najov/RotatingSquare) \
+- [RotatingSquare](https://github.com/Vojan-Najov/RotatingSquare) \
   A program with simple animation. OpenGL, GLUT.
   
 <!--
