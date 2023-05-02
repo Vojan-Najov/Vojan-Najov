@@ -19,7 +19,7 @@
 
 #### Computer Graphic. OpenGL
 - [Sierpinski Gasket](https://github.com/Vojan-Najov/Sierpinski_Gasket) \
-  Displaying the Serpinsky gasket using OpenGL.
+  Displaying the Serpinsky gasket using OpenGL, GLUT.
 - [SquareBrush](https://github.com/Vojan-Najov/SquareBrush) \
   The program of drawing by square brush. OpenGL, GLUT.
 - [SimplePaint](https://github.com/Vojan-Najov/SimplePaint) \
