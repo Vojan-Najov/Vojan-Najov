@@ -23,7 +23,9 @@
 - [SquareBrush](https://github.com/Vojan-Najov/SquareBrush) \
   The program of drawing by square brush. OpenGL, GLUT.
 - [SimplePaint](https://github.com/Vojan-Najov/SimplePaint) \
-A simple drawing program. OpenGL, GLUT.
+  A simple drawing program. OpenGL, GLUT.
+- [Rotating Square](https://github.com/Vojan-Najov/RotatingSquare) \
+  A program with simple animation. OpenGL, GLUT.
   
 <!--
 **Vojan-Najov/Vojan-Najov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
