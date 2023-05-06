@@ -26,7 +26,8 @@
   A simple drawing program. OpenGL, GLUT.
 - [RotatingSquare](https://github.com/Vojan-Najov/RotatingSquare) \
   A program with simple animation. OpenGL, GLUT.
-  
+- [RotatingCube](https://github.com/Vojan-Najov/RotatingCube) \
+  A program for displaying a rotating cube. OpenGL, GLUT.
 <!--
 **Vojan-Najov/Vojan-Najov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
