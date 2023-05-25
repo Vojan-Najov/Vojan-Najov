@@ -6,6 +6,9 @@
 
 #### C projects
 
+- [3DViewer-v1.0](https://github.com/Vojan-Najov/3DViewer_v1.0) \
+  **school 21 project** \
+  Implementation a program to view 3D wireframe models. GUI on QT6. Graphic using OpenGL API 2.1.
 - [SmartCalc-v1.0](https://github.com/Vojan-Najov/SmartCalc_v1.0) \
   **scholl 21 project** \
   Implementation of calculator. GUI on Gtk4. Drawing graphs using Cairo.
