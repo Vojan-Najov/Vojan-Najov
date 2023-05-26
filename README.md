@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on 3DViewer-v1.0
+- 🔭 I’m currently working on 3DViewer-v1.0 and Linux_monitoring_v1.0
 
 ## My projects
 
