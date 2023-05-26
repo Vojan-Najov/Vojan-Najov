@@ -18,10 +18,10 @@
 
 
 #### System administration / Devops projects
-- [Linux_monitoring_v1.0](https://github.com/Vojan-Najov/Linux_monitoring_v1.0) \
+- [Linux monitoring v1.0](https://github.com/Vojan-Najov/Linux_monitoring_v1.0) \
   **school 21 project** \
   Linux basic bash scripting and system research.
-- [Linux Network](https://github.com/Vojan-Najov/Linux_network) \
+- [Linux network](https://github.com/Vojan-Najov/Linux_network) \
   **school 21 project** \
   Linux networks configuration on virtual machines.
 - [Linux operating systems](https://github.com/Vojan-Najov/Linux_operating_system) \
