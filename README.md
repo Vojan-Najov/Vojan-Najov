@@ -24,7 +24,7 @@
 - [Linux network](https://github.com/Vojan-Najov/Linux_network) \
   **school 21 project** \
   Linux networks configuration on virtual machines.
-- [Linux operating systems](https://github.com/Vojan-Najov/Linux_operating_system) \
+- [Linux operating system](https://github.com/Vojan-Najov/Linux_operating_system) \
   **school 21 project** \
   Linux system installation and updates. Administration basics.
 
