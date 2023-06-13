@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Linux_monitoring_v1.0
+- 🔭 I’m currently working on s21_matrix+
 
 ## My projects
 
