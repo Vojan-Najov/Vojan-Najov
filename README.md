@@ -6,6 +6,10 @@
 
 #### C++ projects
 
+- [CPP module](https://github.com/Vojan-Najov/CPP_module) \
+  **ecole 42 project** \
+  Introduction to the c++ programming language.
+
 #### C projects
 
 - [3DViewer-v1.0](https://github.com/Vojan-Najov/3DViewer_v1.0) \
