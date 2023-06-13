@@ -9,7 +9,7 @@
 - [s21_matrix+](https://github.com/Vojan-Najov/s21_matrixplus) \
   **school 21 project** \
   Implementation of the matrix library using the object-oriented approach.
-- [CPP module](https://github.com/Vojan-Najov/CPP_module) \
+- [CPP module](https://github.com/Vojan-Najov/cpp_module) \
   **ecole 42 project** \
   Introduction to the c++ programming language.
 
