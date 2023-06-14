@@ -8,6 +8,7 @@
 - [cpp module](https://github.com/Vojan-Najov/cpp_module) \
   **ecole 42 project** \
   Introduction to the c++ programming language.
+  
   #### Libs
   - [s21_matrix+](https://github.com/Vojan-Najov/s21_matrixplus) \
     **school 21 project** \
@@ -25,11 +26,10 @@
   **school 21 project** \
   `Cat` is a standard Unix utility that reads files sequentially, writing them to standard output.
  
-#### Libs
-
-- [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) \
-  **school 21 project** \
-  Implementation of the matrix library.
+  #### Libs
+  - [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) \
+    **school 21 project** \
+    Implementation of the matrix library.
 
 
 ### System administration / Devops projects
