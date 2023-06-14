@@ -4,7 +4,7 @@
 
 ## My projects
 
-#### C++ projects
+### C++ projects
 
 - [s21_matrix+](https://github.com/Vojan-Najov/s21_matrixplus) \
   **school 21 project** \
@@ -13,7 +13,7 @@
   **ecole 42 project** \
   Introduction to the c++ programming language.
 
-#### C projects
+### C projects
 
 - [3DViewer-v1.0](https://github.com/Vojan-Najov/3DViewer_v1.0) \
   **school 21 project** \
@@ -24,9 +24,11 @@
 - [s21_cat](https://github.com/Vojan-Najov/cat) \
   **school 21 project** \
   `Cat` is a standard Unix utility that reads files sequentially, writing them to standard output.
+ 
+ 
 
 
-#### System administration / Devops projects
+### System administration / Devops projects
 - [Linux monitoring v1.0](https://github.com/Vojan-Najov/Linux_monitoring_v1.0) \
   **school 21 project** \
   Linux basic bash scripting and system research.
@@ -37,7 +39,7 @@
   **school 21 project** \
   Linux system installation and updates. Administration basics.
 
-#### Computer Graphic. OpenGL
+### Computer Graphic. OpenGL
 - [Sierpinski Gasket](https://github.com/Vojan-Najov/Sierpinski_Gasket) \
   Displaying the Serpinsky gasket using OpenGL, GLUT.
 - [SquareBrush](https://github.com/Vojan-Najov/SquareBrush) \
@@ -48,6 +50,7 @@
   A program with simple animation. OpenGL, GLUT.
 - [RotatingCube](https://github.com/Vojan-Najov/RotatingCube) \
   A program for displaying a rotating cube. OpenGL, GLUT.
+
 <!--
 **Vojan-Najov/Vojan-Najov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
