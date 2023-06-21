@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on s21_matrix+
+- 🔭 I’m currently working on s21_containers.
 
 ## My projects
 
@@ -10,6 +10,9 @@
   Introduction to the c++ programming language.
   
   #### Libs
+  - [s21_containers](https://github.com/Vojan-Najov/s21_containers) \
+    **school 21 project** \
+    Implementation of the s21_containers.h. library. List of classes: list, map, queue, set, stack, vector, array, multiset.
   - [s21_matrix+](https://github.com/Vojan-Najov/s21_matrixplus) \
     **school 21 project** \
     Implementation of the matrix library using the object-oriented approach.
