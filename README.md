@@ -33,7 +33,7 @@
   - [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) \
     **school 21 project** \
     Implementation of the matrix library.
-  - [libft](https://github.com/Vojan-Najov/libft)
+  - [libft](https://github.com/Vojan-Najov/libft) \
     **ecole 42 project** \
     The first simple library.
 
