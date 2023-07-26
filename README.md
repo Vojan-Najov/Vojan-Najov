@@ -53,8 +53,7 @@
   Linux system installation and updates. Administration basics.
 
 ### Ruby
-- [Ruby on Rails Training](https://github.com/Vojan-Najov/Ruby_on_Rails_training) \
-  **ecole 42 project** \
+- [Ruby on Rails Training](https://github.com/Vojan-Najov/Ruby_on_Rails_training) (**ecole 42 project**) \
   Introduction to Ruby on Rails.
 
 ### Computer Graphic. OpenGL
