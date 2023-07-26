@@ -52,6 +52,8 @@
   **school 21 project** \
   Linux system installation and updates. Administration basics.
 
+### Ruby
+
 ### Computer Graphic. OpenGL
 - [Sierpinski Gasket](https://github.com/Vojan-Najov/Sierpinski_Gasket) \
   Displaying the Serpinsky gasket using OpenGL, GLUT.
