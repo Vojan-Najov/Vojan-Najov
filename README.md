@@ -9,7 +9,7 @@
   Introduction to the c++ programming language.
   
  #### C++ Libs
- - [s21_containers](https://github.com/Vojan-Najov/s21_containers) (**school 21** project) \ 
+ - [s21_containers](https://github.com/Vojan-Najov/s21_containers) (**school 21** project) \
    Implementation of the s21_containers.h. library. List of classes: list, map, queue, set, stack, vector, array, multiset.
  - [ft_containers](https://github.com/Vojan-Najov/ft_containers/) (**ecole 42** project) \
    Implementation of few container types of the C++98 standard template library. 
