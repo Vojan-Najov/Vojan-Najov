@@ -18,23 +18,18 @@
 
 ### C projects
 
-- [3DViewer-v1.0](https://github.com/Vojan-Najov/3DViewer_v1.0) \
-  **school 21 project** \
+- [3DViewer-v1.0](https://github.com/Vojan-Najov/3DViewer_v1.0) (**school 21** project) \
   Implementation a program to view 3D wireframe models. GUI on QT6. Graphic using OpenGL API 2.1.
-- [SmartCalc-v1.0](https://github.com/Vojan-Najov/SmartCalc_v1.0) \
-  **scholl 21 project** \
+- [SmartCalc-v1.0](https://github.com/Vojan-Najov/SmartCalc_v1.0) (**scholl 21** project) \
   Implementation of calculator. GUI on Gtk4. Drawing graphs using Cairo.
-- [s21_cat](https://github.com/Vojan-Najov/cat) \
-  **school 21 project** \
+- [s21_cat](https://github.com/Vojan-Najov/cat) (**school 21** project \
   `Cat` is a standard Unix utility that reads files sequentially, writing them to standard output.
  
-  #### Libs
-  - [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) \
-    **school 21 project** \
-    Implementation of the matrix library.
-  - [libft](https://github.com/Vojan-Najov/libft) \
-    **ecole 42 project** \
-    The first simple library.
+ #### C Libs
+ - [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) (**school 21** project) \
+   Implementation of the matrix library.
+ - [libft](https://github.com/Vojan-Najov/libft) (**ecole 42** project) \
+   The first simple library.
 
 
 ### System administration / Devops projects
