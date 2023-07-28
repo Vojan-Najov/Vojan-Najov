@@ -33,17 +33,13 @@
 
 
 ### System administration / Devops projects
-- [Linux monitoring v2.0](https://github.com/Vojan-Najov/Linux_monitoring_v2.0) \
-  **school 21 project** \
+- [Linux monitoring v2.0](https://github.com/Vojan-Najov/Linux_monitoring_v2.0) (**school 21** project) \
   Real-time monitoring and research of the system status.
-- [Linux monitoring v1.0](https://github.com/Vojan-Najov/Linux_monitoring_v1.0) \
-  **school 21 project** \
+- [Linux monitoring v1.0](https://github.com/Vojan-Najov/Linux_monitoring_v1.0) (**school 21** project) \
   Linux basic bash scripting and system research.
-- [Linux network](https://github.com/Vojan-Najov/Linux_network) \
-  **school 21 project** \
+- [Linux network](https://github.com/Vojan-Najov/Linux_network) (**school 21** project) \
   Linux networks configuration on virtual machines.
-- [Linux operating system](https://github.com/Vojan-Najov/Linux_operating_system) \
-  **school 21 project** \
+- [Linux operating system](https://github.com/Vojan-Najov/Linux_operating_system) (**school 21** project) \
   Linux system installation and updates. Administration basics.
 
 ### Ruby
