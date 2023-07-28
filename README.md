@@ -5,17 +5,16 @@
 ## My projects
 
 ### C++ projects
-- [cpp module](https://github.com/Vojan-Najov/cpp_module) \
-  **ecole 42 project** \
+- [cpp module](https://github.com/Vojan-Najov/cpp_module) (**ecole 42**) project \
   Introduction to the c++ programming language.
   
-  #### Libs
-  - [s21_containers](https://github.com/Vojan-Najov/s21_containers) \
-    **school 21 project** \
-    Implementation of the s21_containers.h. library. List of classes: list, map, queue, set, stack, vector, array, multiset.
-  - [s21_matrix+](https://github.com/Vojan-Najov/s21_matrixplus) \
-    **school 21 project** \
-    Implementation of the matrix library using the object-oriented approach.
+ #### C++ Libs
+ - [s21_containers](https://github.com/Vojan-Najov/s21_containers) (**school 21** project) \ 
+   Implementation of the s21_containers.h. library. List of classes: list, map, queue, set, stack, vector, array, multiset.
+ - [ft_containers](https://github.com/Vojan-Najov/ft_containers/) (**ecole 42** project) \
+   Implementation of few container types of the C++98 standard template library. 
+ - [s21_matrix+](https://github.com/Vojan-Najov/s21_matrixplus) (**school 21** project) \
+   Implementation of the matrix library using the object-oriented approach.
 
 ### C projects
 
