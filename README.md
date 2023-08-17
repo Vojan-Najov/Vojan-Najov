@@ -29,7 +29,7 @@
  - [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) (**school 21** project) \
    Implementation of the matrix library.
  - [get_next_line](https://github.com/Vojan-Najov/get_next_line) (**ecole 42** project) \
-   The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor.
+   The function that returns a line ending with a newline, read from a file descriptor.
  - [libft](https://github.com/Vojan-Najov/libft) (**ecole 42** project) \
    The first simple library.
 
