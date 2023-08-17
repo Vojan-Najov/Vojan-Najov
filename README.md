@@ -45,6 +45,8 @@
   Linux networks configuration on virtual machines.
 - [Linux operating system](https://github.com/Vojan-Najov/Linux_operating_system) (**school 21** project) \
   Linux system installation and updates. Administration basics.
+- [netwhat](https://github.com/Vojan-Najov/netwhat) (**ecole 42** project) \
+  This project is an introduction to network problematics.
 
 ### Ruby
 - [Ruby on Rails Training](https://github.com/Vojan-Najov/Ruby_on_Rails_training) (**ecole 42** project) \
