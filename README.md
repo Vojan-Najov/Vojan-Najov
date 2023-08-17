@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on s21_containers.
 
-## My projects
+## My study projects
 
 ### C++ projects
 - [cpp module](https://github.com/Vojan-Najov/cpp_module) (**ecole 42**) project \
