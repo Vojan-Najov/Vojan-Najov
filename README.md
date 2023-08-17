@@ -28,6 +28,8 @@
  #### C Libs
  - [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) (**school 21** project) \
    Implementation of the matrix library.
+ - [printf](https://github.com/Vojan-Najov/printf) (**ecole 42** project) \
+   This project is pretty straight forward. You will recode printf. You will mainly learn how to use variadic arguments.
  - [get_next_line](https://github.com/Vojan-Najov/get_next_line) (**ecole 42** project) \
    The function that returns a line ending with a newline, read from a file descriptor.
  - [libft](https://github.com/Vojan-Najov/libft) (**ecole 42** project) \
