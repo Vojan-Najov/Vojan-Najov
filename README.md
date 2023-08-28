@@ -30,6 +30,8 @@
  #### C Libs
  - [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) (**school 21** project) \
    Implementation of the matrix library.
+ - [s21_decimal](https://github.com/Vojan-Najov/s21_decimal) (**school 21** project) \
+   Implementation of own decimal numbers library.
  - [s21_string](https://github.com/Vojan-Najov/s21_string) (**school 21** project) \
    Implementation of the string.h library with additions: sprintf, sscanf and other strings functions.
  - [s21_math](https://github.com/Vojan-Najov/s21_math) (**school 21** project) \
