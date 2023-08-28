@@ -30,8 +30,10 @@
  #### C Libs
  - [s21_matrix](https://github.com/Vojan-Najov/s21_matrix) (**school 21** project) \
    Implementation of the matrix library.
- - [s21_string](https://github.com/Vojan-Najov/s21_string/) (**school 21** project) \
+ - [s21_string](https://github.com/Vojan-Najov/s21_string) (**school 21** project) \
    Implementation of the string.h library with additions: sprintf, sscanf and other strings functions.
+ - [s21_math](https://github.com/Vojan-Najov/s21_math) (**school 21** project) \
+   Implementation of the math.h library.
  - [printf](https://github.com/Vojan-Najov/printf) (**ecole 42** project) \
    This project is pretty straight forward. You will recode printf. You will mainly learn how to use variadic arguments.
  - [get_next_line](https://github.com/Vojan-Najov/get_next_line) (**ecole 42** project) \
