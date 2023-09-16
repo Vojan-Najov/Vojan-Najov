@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on Linux_monitoring_v2.0
+- 🔭 I’m currently working on SmartCalc_v2.0
 
 ## My study projects
 
