@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on SmartCalc_v2.0
+- 🔭 I’m currently working on SimpleDocker
 
 ## My study projects
 
@@ -45,6 +45,8 @@
 
 
 ### System administration / Devops projects
+- [SimpleDocker](https://github.com/Vojan-Najov/SimpleDocker) (**school 21** project) \
+  Introduction to docker. Developing a simple docker image for your own server. 
 - [Linux monitoring v2.0](https://github.com/Vojan-Najov/Linux_monitoring_v2.0) (**school 21** project) \
   Real-time monitoring and research of the system status.
 - [Linux monitoring v1.0](https://github.com/Vojan-Najov/Linux_monitoring_v1.0) (**school 21** project) \
