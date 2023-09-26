@@ -43,7 +43,6 @@
  - [libft](https://github.com/Vojan-Najov/libft) (**ecole 42** project) \
    The first simple library.
 
-
 ### System administration / Devops projects
 - [SimpleDocker](https://github.com/Vojan-Najov/SimpleDocker) (**school 21** project) \
   Introduction to docker. Developing a simple docker image for your own server. 
@@ -61,6 +60,9 @@
   This is a System Administration related exercise.
 - [netwhat](https://github.com/Vojan-Najov/netwhat) (**ecole 42** project) \
   This project is an introduction to network problematics.
+
+### SQL
+- [SQL Bootcamp](https://github.com/Vojan-Najov/SQL_Bootcamp) (**school 21** project)
 
 ### Ruby
 - [Ruby on Rails Training](https://github.com/Vojan-Najov/Ruby_on_Rails_training) (**ecole 42** project) \
