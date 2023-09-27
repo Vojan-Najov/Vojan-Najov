@@ -5,7 +5,9 @@
 ## My study projects
 
 ### C++ projects
-- [cpp module](https://github.com/Vojan-Najov/cpp_module) (**ecole 42**) project \
+- [SmartCalc_v2.0](https://github.com/Vojan-Najov/SmartCalc_v2.0) (**school 21** project) \
+  Calculator with MVC pattern. 
+- [cpp module](https://github.com/Vojan-Najov/cpp_module) (**ecole 42** project) \
   Introduction to the c++ programming language.
   
  #### C++ Libs
