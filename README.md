@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on SimpleDocker
+- 🔭 I’m currently working on SmartCalc_v2.0
 
 ## My study projects
 
