@@ -46,6 +46,8 @@
    The first simple library.
 
 ### System administration / Devops projects
+- [Basic CI/CD](https://github.com/Vojan-Najov/CICD) (**school 21** project) \
+  Development of a simple CI/CD for the SimpleBashUtils project. Building, testing, deployment.
 - [SimpleDocker](https://github.com/Vojan-Najov/SimpleDocker) (**school 21** project) \
   Introduction to docker. Developing a simple docker image for your own server. 
 - [Linux monitoring v2.0](https://github.com/Vojan-Najov/Linux_monitoring_v2.0) (**school 21** project) \
