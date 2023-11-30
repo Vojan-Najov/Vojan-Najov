@@ -73,7 +73,7 @@
 ### Ruby
 - [Ruby on Rails Training](https://github.com/Vojan-Najov/Ruby_on_Rails_training) (**ecole 42** project) \
   Introduction to Ruby on Rails.
-- [Ruby exrcises](https://github.com/Vojan-Najov/ruby_exercises)
+- [Ruby exercises](https://github.com/Vojan-Najov/ruby_exercises)
 ### Computer Graphic. OpenGL
 - [Sierpinski Gasket](https://github.com/Vojan-Najov/Sierpinski_Gasket) \
   Displaying the Serpinsky gasket using OpenGL, GLUT.
