@@ -9,6 +9,7 @@
   Calculator with MVC pattern. 
 - [cpp module](https://github.com/Vojan-Najov/cpp_module) (**ecole 42** project) \
   Introduction to the c++ programming language.
+- [Qt samples](https://github.com/Vojan-Najov/qt_examples)
   
  #### C++ Libs
  - [s21_containers](https://github.com/Vojan-Najov/s21_containers) (**school 21** project) \
