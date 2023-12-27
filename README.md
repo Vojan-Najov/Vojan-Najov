@@ -1,11 +1,13 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on SmartCalc_v2.0
+- 🔭 I’m currently working on 3DViewer-v2.0
 
 ## My study projects
 
 ### C++ projects
-- [SmartCalc_v2.0](https://github.com/Vojan-Najov/SmartCalc_v2.0) (**school 21 project**) \
+- [3DViewer-v2.0](https://github.com/Vojan-Najov/3DViewer_v2.0) (**school 21 project**) \
+  An application for viewing 3D wireframe models in C++ in the object-oriented programming paradigm. 
+- [SmartCalc-v2.0](https://github.com/Vojan-Najov/SmartCalc_v2.0) (**school 21 project**) \
   Calculator with MVC pattern. 
 - [cpp module](https://github.com/Vojan-Najov/cpp_module) (**ecole 42 project**) \
   Introduction to the c++ programming language.
