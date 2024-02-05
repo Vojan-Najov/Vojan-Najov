@@ -5,6 +5,8 @@
 ## My study projects
 
 ### C++ projects
+- [Maze](https://github.com/Vojan-Najov/Maze) (**school 21 project**) \
+  In this project you’ll learn about mazes and caves, including the basic algorithms of their handling, such as: generation, rendering, solving. 
 - [3DViewer-v2.0](https://github.com/Vojan-Najov/3DViewer_v2.0) (**school 21 project**) \
   An application for viewing 3D wireframe models in C++ in the object-oriented programming paradigm. 
 - [SmartCalc-v2.0](https://github.com/Vojan-Najov/SmartCalc_v2.0) (**school 21 project**) \
