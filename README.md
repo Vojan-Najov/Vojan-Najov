@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on 3DViewer-v2.0
+- 🔭 I’m currently working on Maze
 
 ## My study projects
 
