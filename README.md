@@ -32,7 +32,7 @@
   `Grep` is a command-line utility for searching plain-text data sets for lines that match a regular expression.
 - [s21_cat](https://github.com/Vojan-Najov/cat) (**school 21 project**) \
   `Cat` is a standard Unix utility that reads files sequentially, writing them to standard output.
-- [C exercises](https://github.com/Vojan-Najov/c_samples) \
+- [C exercises](https://github.com/Vojan-Najov/exercises_c) \
   Exercises for the book The C Programming language K&R. \
   Samples of OpenGL.
  
