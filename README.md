@@ -83,18 +83,6 @@
 ### Go
 - [Go exercises](https://github.com/Vojan-Najov/exercises_go)
 
-### Computer Graphic. OpenGL
-- [Sierpinski Gasket](https://github.com/Vojan-Najov/Sierpinski_Gasket) \
-  Displaying the Serpinsky gasket using OpenGL, GLUT.
-- [SquareBrush](https://github.com/Vojan-Najov/SquareBrush) \
-  The program of drawing by square brush. OpenGL, GLUT.
-- [SimplePaint](https://github.com/Vojan-Najov/SimplePaint) \
-  A simple drawing program. OpenGL, GLUT.
-- [RotatingSquare](https://github.com/Vojan-Najov/RotatingSquare) \
-  A program with simple animation. OpenGL, GLUT.
-- [RotatingCube](https://github.com/Vojan-Najov/RotatingCube) \
-  A program for displaying a rotating cube. OpenGL, GLUT.
-
 <!--
 **Vojan-Najov/Vojan-Najov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
