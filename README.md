@@ -81,7 +81,7 @@
 - [Ruby exercises](https://github.com/Vojan-Najov/exercises_ruby)
 
 ### Go
-- [Go exercises](https://github.com/Vojan-Najov/go_exercises)
+- [Go exercises](https://github.com/Vojan-Najov/exercises_go)
 
 ### Computer Graphic. OpenGL
 - [Sierpinski Gasket](https://github.com/Vojan-Najov/Sierpinski_Gasket) \
