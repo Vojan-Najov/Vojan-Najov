@@ -83,6 +83,7 @@
 - [Ruby exercises](https://github.com/Vojan-Najov/exercises_ruby)
 
 ### Go
+- [DAEC (https://github.com/Vojan-Najov/daec) (**yandex lms project**)
 - [Game of Life](https://github.com/Vojan-Najov/GameOfLife)
 - [Go Bootcamp](https://github.com/Vojan-Najov/Go_Bootcamp/) (**school 21 project**)
 - [Go exercises](https://github.com/Vojan-Najov/exercises_go)
