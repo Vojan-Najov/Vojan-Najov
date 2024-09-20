@@ -30,6 +30,8 @@
   Implementation a program to view 3D wireframe models. GUI on QT6. Graphic using OpenGL API 2.1.
 - [SmartCalc-v1.0](https://github.com/Vojan-Najov/SmartCalc_v1.0) (**school 21 project**) \
   Implementation of calculator. GUI on Gtk4. Drawing graphs using Cairo.
+- [push_swap](https://github.com/Vojan-Najov/push_swap) (**ecole 42 project**) \
+  This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions.
 - [s21_grep](https://github.com/Vojan-Najov/s21_grep) (**school 21 project**) \
   `Grep` is a command-line utility for searching plain-text data sets for lines that match a regular expression.
 - [s21_cat](https://github.com/Vojan-Najov/cat) (**school 21 project**) \
