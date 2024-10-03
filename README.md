@@ -90,6 +90,8 @@
 - [Go Bootcamp](https://github.com/Vojan-Najov/Go_Bootcamp/) (**school 21 project**)
 - [Go exercises](https://github.com/Vojan-Najov/exercises_go)
 
+### Python
+- [Python exercises](https://github.com/Vojan-Najov/exercises_python)
 
 <!--
 **Vojan-Najov/Vojan-Najov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
