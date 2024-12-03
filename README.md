@@ -91,6 +91,7 @@
 - [Go exercises](https://github.com/Vojan-Najov/exercises_go)
 
 ### Python
+- [Python Bootcamp](https://github.com/Vojan-Najov/Bootcamp_Python) (**school 21 project**)
 - [Python exercises](https://github.com/Vojan-Najov/exercises_python)
 
 <!--
