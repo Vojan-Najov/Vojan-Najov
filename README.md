@@ -75,6 +75,8 @@
   This is a System Administration related exercise.
 - [netwhat](https://github.com/Vojan-Najov/netwhat) (**ecole 42 project**) \
   This project is an introduction to network problematics.
+- [sysnotes](https://github.com/Vojan-Najov/sysnotes) \
+  Notes on Operating Systems.
 
 ### SQL
 - [SQL Bootcamp](https://github.com/Vojan-Najov/SQL_Bootcamp) (**school 21 project**)
